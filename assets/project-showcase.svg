@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="482" viewBox="0 0 1080 482" role="img" aria-labelledby="title desc">
+  <title id="title">feng 的工程路径与项目选集</title>
+  <desc id="desc">从应用工程到知识工作流、Agent 集成和部署交付的四段工程路径。</desc>
+  <rect width="1080" height="482" fill="#FCF8EE"/>
+  <rect x="0" y="0" width="1080" height="5" fill="#D9B866"/>
+  <g fill="#08172C">
+    <text x="52" y="53" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="13" font-weight="700" letter-spacing="2.8">PROJECT DISPATCH</text>
+    <text x="52" y="88" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="24" font-weight="700">把兴趣变成经得起验证的工程</text>
+    <text x="52" y="114" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="14" fill="#5E6E89">每个仓库都是同一条主线上的一段：问题、证据、工件与交付。</text>
+  </g>
+  <g fill="none" stroke="#C9BEA0" stroke-width="1.5">
+    <path d="M104 157H976"/>
+    <circle cx="104" cy="157" r="7" fill="#D9B866"/>
+    <circle cx="395" cy="157" r="7" fill="#D9B866"/>
+    <circle cx="685" cy="157" r="7" fill="#D9B866"/>
+    <circle cx="976" cy="157" r="7" fill="#D9B866"/>
+  </g>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="104" y="187" text-anchor="middle" font-size="12" font-weight="700" fill="#08172C">01 应用工程</text>
+    <text x="395" y="187" text-anchor="middle" font-size="12" font-weight="700" fill="#08172C">02 知识工作流</text>
+    <text x="685" y="187" text-anchor="middle" font-size="12" font-weight="700" fill="#08172C">03 Agent 集成</text>
+    <text x="976" y="187" text-anchor="middle" font-size="12" font-weight="700" fill="#08172C">04 部署交付</text>
+  </g>
+  <g stroke="#CFC5AA" stroke-width="1" fill="#FFFDF7">
+    <rect x="52" y="225" width="468" height="103" rx="4"/>
+    <rect x="560" y="225" width="468" height="103" rx="4"/>
+    <rect x="52" y="352" width="468" height="103" rx="4"/>
+    <rect x="560" y="352" width="468" height="103" rx="4"/>
+  </g>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="76" y="251" font-size="11" font-weight="700" fill="#AF8F40" letter-spacing="1.5">01 / KNOWLEDGE</text>
+    <text x="76" y="280" font-size="18" font-weight="700" fill="#08172C">Open Knowledge Studio</text>
+    <text x="76" y="307" font-size="13" fill="#5E6E89">source → review → recall</text>
+    <text x="584" y="251" font-size="11" font-weight="700" fill="#AF8F40" letter-spacing="1.5">02 / INTEGRATION</text>
+    <text x="584" y="280" font-size="18" font-weight="700" fill="#08172C">dsh-oks</text>
+    <text x="584" y="307" font-size="13" fill="#5E6E89">OKS memory → Harness hook</text>
+    <text x="76" y="378" font-size="11" font-weight="700" fill="#AF8F40" letter-spacing="1.5">03 / PRACTICE</text>
+    <text x="76" y="407" font-size="18" font-weight="700" fill="#08172C">real-ai-engineering</text>
+    <text x="76" y="434" font-size="13" fill="#5E6E89">problem → evidence → artifact</text>
+    <text x="584" y="378" font-size="11" font-weight="700" fill="#AF8F40" letter-spacing="1.5">04 / OPERATIONS</text>
+    <text x="584" y="407" font-size="18" font-weight="700" fill="#08172C">dsh-server-remote</text>
+    <text x="584" y="434" font-size="13" fill="#5E6E89">HTTPS · systemd · remote</text>
+  </g>
+</svg>

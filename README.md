@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-feng-banner-v2.gif" alt="feng：没有真实问题，不产生资产；没有真实验证，不包装成熟。" width="100%" />
+  <img src="./assets/hero-feng-static.png" alt="feng：把兴趣做成可验证、可运行的工程。" width="100%" />
 </p>
 
 <p align="center">
@@ -10,6 +10,10 @@
   <code>Agent / Harness</code>
   &nbsp;·&nbsp;
   <code>可部署交付</code>
+</p>
+
+<p align="center">
+  <img src="./assets/build-log.gif" alt="Build Log：没有真实问题，不产生资产；没有真实验证，不包装成熟。" width="100%" />
 </p>
 
 <p align="center">
@@ -29,34 +33,21 @@
 - **Agent 集成**：Harness、Skills、Adapters 与确定性工作流
 - **部署交付**：Docker、Linux、HTTPS、systemd 与远程运行
 
-## 最近在做的事
+## 项目选集
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / KNOWLEDGE</sub><br /><br />
-      <a href="https://github.com/1263-ux/open-knowledge-studio"><strong>Open Knowledge Studio ↗</strong></a><br /><br />
-      让文件型知识从原始来源走向可审核、可追溯、可召回。
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / INTEGRATION</sub><br /><br />
-      <a href="https://github.com/1263-ux/dsh-oks"><strong>dsh-oks ↗</strong></a><br /><br />
-      把 OKS 的记忆与召回参数接入 DeepSeek Harness，并通过 Hook 做确定性注入。
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / PRACTICE</sub><br /><br />
-      <a href="https://github.com/1263-ux/real-ai-engineering"><strong>real-ai-engineering ↗</strong></a><br /><br />
-      将真实 AI 工程问题沉淀为可复用的 Skills、Adapters、Scripts 与 Cases。
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / OPERATIONS</sub><br /><br />
-      <a href="https://github.com/1263-ux/dsh-server-remote"><strong>dsh-server-remote ↗</strong></a><br /><br />
-      面向 Linux 的可重复部署方案，覆盖 HTTPS、认证、systemd 与运维文档。
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/project-showcase.svg" alt="从应用工程到知识工作流、Agent 集成和部署交付的项目主线" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/1263-ux/open-knowledge-studio">Open Knowledge Studio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/1263-ux/dsh-oks">dsh-oks</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/1263-ux/real-ai-engineering">real-ai-engineering</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/1263-ux/dsh-server-remote">dsh-server-remote</a>
+</p>
 
 > 没有真实问题，不产生资产；没有真实验证，不包装成熟。
 
